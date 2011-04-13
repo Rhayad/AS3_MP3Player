@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mp3player>
+		<track title="6th of September" path="runtime-assets/6th_of_September.mp3" artist="ASP"/>
+		<track title="Ich bin ein wahrer Satan" path="runtime-assets/Ich_bin_ein_wahrer_Satan.mp3" artist="ASP"/>	
+		<track title="Krabat " path="runtime-assets/Krabat.mp3" artist="ASP"/>
+		<track title="Zaubererbruder " path="runtime-assets/Zaubererbruder.mp3" artist="ASP"/>
+</mp3player>
